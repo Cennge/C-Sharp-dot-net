@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpKnP231.Library
+namespace csharp_all.Library
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class CiteStyleAttribute : Attribute

@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace csharp_all.Library
+namespace csharp_all.Events.Observer
 {
-    [AttributeUsage(AttributeTargets.Method)]
-    internal class ApaStyleAttribute : Attribute
+    internal interface ISubscriber
     {
+        void Update(double newPrice)
+        {
+
+        }
     }
 }

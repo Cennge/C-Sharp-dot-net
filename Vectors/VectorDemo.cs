@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpKnP231.Vectors
+namespace csharp_all.Vectors
 {
     internal class VectorDemo
     {

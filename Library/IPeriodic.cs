@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpKnP231.Library
+namespace csharp_all.Library
 {
-    internal interface IPeriodic
+    public interface IPeriodic
     {
         String GetPeriod(); // public abstract
     }

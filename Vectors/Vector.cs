@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpKnP231.Vectors
+namespace csharp_all.Vectors
 {
     internal struct Vector // struct - базовий тип для Value Type
     {
